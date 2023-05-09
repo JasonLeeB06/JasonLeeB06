@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jason B.
 - 👀 I’m interested in PHP, JavaScript and Astro Development
 - 🌱 I’m currently learning Astro
-- 📫 How to reach me [jason-b.de](https://jason-b.de)
+- 📫 How to reach me [jasonb.de](https://jasonb.de)
